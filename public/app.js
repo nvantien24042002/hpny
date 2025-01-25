@@ -1,4 +1,4 @@
-var fut = new Date("jan 26, 2025 04:25:00").getTime()
+var fut = new Date("jan 26, 2025 04:36:00").getTime()
 let x = setInterval(function stime(){
     var now = new Date().getTime()  
     var D = fut - now
